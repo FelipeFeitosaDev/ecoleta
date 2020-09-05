@@ -1,7 +1,8 @@
 <h1>Ecoleta</h1>
 <p>A website for waste collection points using Nodejs, html and css.</p>
 
-<img align="center" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-desktop-view_3.gif" style="max-width:100%;">
+<img align="left" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-desktop-view.gif" style="max-width:100%;">
+<img align="left" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-mobile-view.gif" style="max-width:100%;">
 
 
 ## Features
