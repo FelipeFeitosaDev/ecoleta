@@ -17,3 +17,6 @@ Node Js: A web framework for javascript
 
 This project is licensed under the terms of the MIT license.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
