@@ -2,7 +2,7 @@
 <p>A website for waste collection points using Nodejs, HTML and CSS.</p>
 
 <img align="left" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-desktop-view.gif" style="max-width:100%;">
-<img width="17%" margin-bottom="85px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-mobile-view.gif" style="max-width:100%;">
+<img width="20%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-mobile-view.gif" style="max-width:100%;">
 
 
 ## Features
