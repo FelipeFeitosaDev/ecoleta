@@ -15,8 +15,6 @@ Node Js: A web framework for javascript
 2. Move yourself to the appropriate directory: `cd ecoleta`<br />
 3. Run `npm install` to install dependencies<br />
 
-This project is licensed under the terms of the MIT license.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
