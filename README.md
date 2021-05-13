@@ -5,16 +5,78 @@
 <img width="18%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/ecoleta/blob/master/public/assets/ecoleta-mobile-view.gif" style="max-width:100%;">
 
 
-## Features
+## Name - Chillodoro
+*Relaxe entre uma tarefa e outra.*
 
-Node Js: A web framework for javascript
+## Description
+Muitas horas a frente do computador pode afetar seu corpo e sua mente.
+Por isso é importante que se tire pausas ao longo do dia. A fim de amenizar esses problemas, o projeto visa unir a técnica de produtivadade "Pomodoro" que evita o cansaço mental com uma série de exercicios de relaxamento sugerido por especialistas. 
+É sabido que é muito difícil criar um novo hábito e a solução para engajar o usuário foi "gameficar" a aplicação gerando pequenas recompensas com um sistema de level's muito utilizado em RPG's.  
 
-## Getting started
+### Features
+   * Perfil utilizando os dados públicos do github
+   * Contém um Timer para contar as pausas entre um tarefa e outra;
+   * Tarefa de relaxamento é gerada sempre que o timer é iniciado;
+   * Tarefas são geradas a partir de um .JSON;
+   * Barra de experência;
+   * Modal que alerta a subida de level;
+   * Permissão de notificação pelo browser;
+   * Dados salvos em cookies caso queira retornar de onde parou;
 
-1. Clone this repo using `git clone https://github.com/FelipeFeitosaDev/ecoleta.git`
-2. Move yourself to the appropriate directory: `cd ecoleta`<br />
-3. Run `npm install` to install dependencies<br />
+
+## Installation
+
+### Requeriments 
+   * Nodejs
+
+1.Use o gerenciador de pacotes [npm](https://www.npmjs.com/package/download) ou [yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) para instalar as dependecias.
+
+2.Na raiz do projeto, dê um dos comandos abaixo em seu terminal para instalar as dependencias:
+
+
+   Instalando as dependências com npm:
+    
+    $ npm install
+
+   Instalando as dependências com yarn:
+   
+    $ yarn install
+   
+
+3.Em seguida inicie o servidor: 
+
+   npm:
+    
+    $ npm run dev
+
+   yarn:
+     
+    $ yarn dev
+    
+
+### Tecnologias 
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+
+## Roadmap
+
+- Responsividade
+- Dark theme
+- App PWA
+- Login com github
+- Sidebar com ranking
+- Compartilhar no twitter
+
+## Authors and acknowledgment
+Projeto realizado durante O NLW4 evento realizado pela Rocketseat.
 
 ## License
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+## Project Status
+Parado.
+
